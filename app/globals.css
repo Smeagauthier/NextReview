@@ -1,0 +1,14 @@
+*::selection{
+    background-color: orange;
+    color: white; 
+}
+
+body{
+    font-family: sans-serif;
+    background: #1e1e1e;
+    color:white;
+}
+a{
+    color:lightblue; 
+    text-decoration: underline;
+}
